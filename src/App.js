@@ -105,6 +105,4 @@ function App() {
   );
 }
 
-console.log(StyleSheet);
-
 export default App;
